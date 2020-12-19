@@ -103,7 +103,7 @@ body {
 
 /* Save Confirmation */
 .save-confirmed {
-  background: rgba(59, 58, 58, 0.356);
+  background: rgba(53, 53, 53, 0.452);
   padding: 6px 10px;
   border-radius: 8px;
   box-shadow: 0 4px 8px 0 rgba(16, 190, 74, 0.726);
@@ -111,6 +111,7 @@ body {
   position: fixed;
   bottom: 25px;
   right: 50px;
+  z-index: 1;
 }
 .footer{
   text-align: center;
